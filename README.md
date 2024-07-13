@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-This is my first lesson to know the use of GitHub
+This is my first lesson to know the use of GitHub!
